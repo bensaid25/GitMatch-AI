@@ -17,6 +17,7 @@ Tech Stack
 * **API:** GitHub REST API
 
 Getting Started
-1. Clone the repo: `git clone [your-repo-link]`
+1. Clone the repo: `git clone [ git clone https://github.com/bensaid25/GitMatch-AI.git ]`
 2. Install dependencies: `npm install`
+
 3. Run dev server: `npm run dev`
